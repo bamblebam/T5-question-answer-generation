@@ -5,3 +5,4 @@
 /.vscode
 /logs
 /datasets
+/model_cache
