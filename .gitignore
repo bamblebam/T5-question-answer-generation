@@ -6,3 +6,4 @@
 /logs
 /datasets
 /model_cache
+/checkpoints
